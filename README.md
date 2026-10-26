@@ -1,2 +1,0 @@
-# matomete-mail
-まとめてメールのWebサイト
